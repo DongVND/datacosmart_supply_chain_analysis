@@ -2,8 +2,8 @@
 The goal of this DA project is to perform a thorough analyst on a supply chain datasets to find insights and places to improve.
 We process as following : Cleaning data - EDA - categorizing issues - insights & suggestion.
 
-## Repository notes:
-1. [DataCo_SMART_Supply_Chain_Analysis.ipynb](https://github.com/DongVND/datacosmart_supply_chain_analysis/blob/main/DataCo_SMART_Supply_Chain_Analysis.ipynb): This is the main file where my analysis performed.
+## Repository file tree:
+1. [DataCo_SMART_Supply_Chain_Analysis.ipynb](https://github.com/DongVND/datacosmart_supply_chain_analysis/blob/main/DataCo_SMART_Supply_Chain_Analysis.ipynb): This is the main Google Colab file where my analysis performed.
 2. [DescriptionDataCoSupplyChain.csv](https://github.com/DongVND/datacosmart_supply_chain_analysis/blob/main/DescriptionDataCoSupplyChain.csv): this file shows the data structure
 3. [Presentation of DataCo SMART supply chain analysis.pdf](https://github.com/DongVND/datacosmart_supply_chain_analysis/blob/main/Presentation%20of%20DataCo%20SMART%20supply%20chain%20analysis.pdf): this pdf file presents my analysis progress as well as key findings.
 4. [Readme.md](https://github.com/DongVND/datacosmart_supply_chain_analysis/blob/main/README.md): visit this file for guidance
