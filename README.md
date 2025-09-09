@@ -19,14 +19,14 @@ Data source: https://data.mendeley.com/datasets/8gx2fvg2k6/5
  The data shows a **very high delay delivery rate**.
  The rate remain fluctuating **52% ~ 56%** during 2015-2017 and seems to be increasing in late 2017.
  Late Delivery Rate is affected by many factors. In the scope of our available data, we may point out these **causes**:
- ○ **Long processing time** from order to actual shipping (4 days instead of the required 2 days)
- ○ Some **special products require more shipping time** than others (such as Cleats, Men's footwear, Women's apparel etc.) supposed to be on-time or advanced.
- ○ **Shipping Classes are under-performing**. Especially First and Second Classed are often late while they are 
-○ The **schedule shipping time is not precise**. Especially for 1-2 days delivery orders. We need to improve the precision and consider more about actual average shipping time 3.5 days.
+-  **Long processing time** from order to actual shipping (4 days instead of the required 2 days)
+-  Some **special products require more shipping time** than others (such as Cleats, Men's footwear, Women's apparel etc.) supposed to be on-time or advanced.
+- **Shipping Classes are under-performing**. Especially First and Second Classed are often late while they are 
+- The **schedule shipping time is not precise**. Especially for 1-2 days delivery orders. We need to improve the precision and consider more about actual average shipping time 3.5 days.
 
 **Suggestions:**
- ○ Focus on improving Average Order Process Time from 4 days down to 2 days.
- ○ Re-qualify the quality of premium shipping modes (First Class and Second Class).
- ○ Optimize delivery routes to Central America, South America and Western Europe.
- ○ Carefully consider schedule shipping time before inputting.
- ○ Finally, be well prepared around the end of year period since it often has more late delivery count than others
+- Focus on improving Average Order Process Time from 4 days down to 2 days.
+- Re-qualify the quality of premium shipping modes (First Class and Second Class).
+- Optimize delivery routes to Central America, South America and Western Europe.
+- Carefully consider schedule shipping time before inputting.
+- Finally, be well prepared around the end of year period since it often has more late delivery count than others
